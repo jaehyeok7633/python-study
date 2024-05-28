@@ -15,4 +15,4 @@ num = 50 + 40 # 변수의 값 변경도 일반 선언과 동일합니다.
 print(num)
 
 # 선언되지 않은 변수는 사용이 불가능합니다.
-print(result)
+# print(result)
